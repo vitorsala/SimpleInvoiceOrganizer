@@ -12,7 +12,7 @@
                 "<node_internals>/**"
             ],
             "program": "${workspaceFolder}\\index.js",
-            "args": ["-i", "D:\\_Projetos\\NodeJS\\FileWatcher\\TestInput", "-o", "D:\\_Projetos\\NodeJS\\FileWatcher\\TestOutput"]
+            "args": ["-i", "", "-o", ""]
         }
     ]
 }
